@@ -78,11 +78,11 @@ src/
 ## 📂 Backend Structure
 
 src/
- ├── controller/
- ├── service/
- ├── repository/
- ├── entity/
- └── EMSApplication.java
+├── controller/
+├── service/
+├── repository/
+├── entity/
+└── EMSApplication.java
 
 
 ---
